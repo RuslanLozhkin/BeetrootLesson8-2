@@ -1,0 +1,92 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #464f54;
+}
+.title{
+    position: absolute;
+    right: -70px;
+    top: 44px;
+    background-color: #181818;
+    width: 875px;
+    height: 188px;
+    padding-left: 60px;
+    z-index: 99;
+}
+.title p{
+    margin-top: 35px;
+    padding-left: 4px;
+    color: #767676;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+.title h1{
+    margin: 0;
+    padding-left: 4px;
+    font-family: 'Playfair Display', serif;
+    color: #fefefe;
+    font-size: 48px;
+    text-transform: uppercase;
+}
+.title hr{
+    border: none;
+    height: 3px;
+    width: 100%;
+    background-color: #303030;
+}
+.tools{
+    position: absolute;
+    right: -70px;
+    top: 232px;
+    background-color: #f1b82b;
+    width: 812px;
+    height: 76px;
+    z-index: 99;
+}
+.paper{
+    margin: 150px 70px 0 70px;
+    padding-top: 200px;
+    background-color: #fff;
+}
+.sub-paper{
+    padding: 0 55px;
+    border-left: 2px solid #e8eced;
+    text-align: justify;
+}
+.author{
+    color: #b4b4b4;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    letter-spacing: 5px;
+    text-align: left;
+    text-transform: uppercase;
+}
+.paper-title{
+    font-family:'Conv_FuturaPTBold',Sans-Serif;
+    font-size: 78px;
+    text-align: left;
+    text-transform: uppercase;
+}
+.paper-title p{
+    margin-top: 30px;
+    margin-bottom: 55px;
+}
+.slogan{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-style: italic;
+    color: #8f8f8f;
+}
+.slogan p{
+    margin: 20px 0 55px 0;
+}
+.text{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 26px;
+    color: #000;
+}
+.text p{
+    margin-top: 0;
+    margin-bottom: 16px;
+}
